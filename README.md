@@ -8,8 +8,8 @@ It provides users with **empathetic responses** and **personalized self-care sug
 
 ---
 
-## 🌐 Demo  
-🔗 [**Live Demo on Gradio**](https://www.linkedin.com/posts/muskan-sharma2208_aiforgood-mentalhealthmatters-crewai-activity-7359974250339794944-I8Sw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoJALEBmuYl7p_GVlFFzgVh4v3dJL4x9ak)  
+## 🌐 Demo Video
+🔗 [**Linkedin Post **](https://www.linkedin.com/posts/muskan-sharma2208_aiforgood-mentalhealthmatters-crewai-activity-7359974250339794944-I8Sw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoJALEBmuYl7p_GVlFFzgVh4v3dJL4x9ak)  
 
 ---
 
